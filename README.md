@@ -1,13 +1,4 @@
-# LightHUD
+# Dead Realm Hud
 
-My personal HUD aimed to be very minimal and light on performance, get's rid of many elements I don't personally feel the need of and with that brings a bit more stability with less freezes and some extra FPS.
-
-Here are some of the screenshots, full album [HERE](https://imgur.com/a/kg9i6OU)
-
-![](https://i.imgur.com/dc352zw.jpg)
-![](https://i.imgur.com/SLkknry.jpg)
-![](https://i.imgur.com/UcPU97G.jpg)
-![](https://i.imgur.com/gw4hLg8.jpg)
-![](https://i.imgur.com/FaeIKVX.jpg)
-![](https://i.imgur.com/e1eEC4W.png)
-![](https://i.imgur.com/LPYCrpj.jpg)
+I'M FREE FROM MY 13+ HOUR OF FORCED MANDATORY LABOR (i hate you n1te)
+![](https://cdn.discordapp.com/attachments/849343975714586721/1277484980821557309/togif.gif?ex=66ddd0d9&is=66dc7f59&hm=6fcc635a22ef34dc8b233e00f344f9e803a230bd33b8a8c3462b0d7f9738e4bc&)
